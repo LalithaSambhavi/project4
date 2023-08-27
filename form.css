@@ -1,0 +1,17 @@
+body{
+    background-color: aliceblue;
+}
+form{
+     border-radius: 3px solid black;
+     border-style: double;
+     margin: 20px auto;
+     width: 300px;
+     height:auto;
+     padding: 30px;
+     align-items: center;
+}
+.container{
+    display: flex;
+    justify-content:center ;
+    flex-direction: column;
+}
